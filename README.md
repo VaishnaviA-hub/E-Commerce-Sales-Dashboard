@@ -24,8 +24,7 @@ To analyze year-to-date (YTD) sales performance and generate actionable insights
 - Developed interactive visuals for state, region, product, and shipping-level analysis.
 
 ## Dashboard: US E-Commerce Sales Dashboard
-<!-- <a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png"> View Dashboard </a> -->
-https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png
+<a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png"> View Dashboard </a>
 
 ## 🔍 Project Insights
 The analysis reveals that **Office Supplies dominates overall sales (~$6.92M)**, but its negative YoY growth indicates a potential slowdown in demand. **Furniture shows stable performance with slight growth, while Technology underperforms**, highlighting key areas for improvement.
