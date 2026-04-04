@@ -5,8 +5,8 @@ Developed an interactive Power BI Sales Dashboard for a US-based e-commerce comp
 To analyze year-to-date (YTD) sales performance and generate actionable insights by tracking key KPIs, identifying growth trends, and evaluating business performance across multiple dimensions.
 
 ## Datasets used
-<a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/ecommerce_data.csv"> ECommerce_Data </a>
-<a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/us_state_long_lat_codes.csv"> US_State_Long_Lat_Codes </a>
+- <a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/ecommerce_data.csv"> ECommerce_Data </a>
+- <a href="https://github.com/VaishnaviA-hub/E-Commerce-Sales-Dashboard/blob/main/us_state_long_lat_codes.csv"> US_State_Long_Lat_Codes </a>
 
 ## ❓ Questions
 1. What are the YTD Sales, Profit, Quantity Sold, and Profit Margin?
